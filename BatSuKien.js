@@ -1,0 +1,1 @@
+alert("chúng tôi chào các bạn nhé")
